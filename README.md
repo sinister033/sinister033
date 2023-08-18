@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js, TailwindCSS, Svelete**
+- 🌱 I’m currently learning **Next.js, TailwindCSS, Svlete**
 
-- 📫 How to reach me **satyamt00011@gmail.com**
+- 📫 Reach me through **satyamt00011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
