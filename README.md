@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+
 
 - 📫 Reach me through **satyamt00011@gmail.com**
 
